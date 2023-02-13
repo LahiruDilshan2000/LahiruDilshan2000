@@ -1,4 +1,4 @@
-<img src="https://learnwithshikha.com/wp-content/uploads/2021/01/web-deve.png">
+<img src="https://wallpaperaccess.com/full/2137963.jpg">
 <h1 align="center">Hi 👋, I'm U.R Lahiru Dilshan</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 

@@ -1,4 +1,4 @@
-<img src="https://wallpaperaccess.com/full/2137963.jpg">
+<img src="https://wallpaperaccess.com/full/1338362.png">
 <h1 align="center">Hi 👋, I'm U.R Lahiru Dilshan</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 

@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm U.R Lahiru Dilshan</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
-- 🌱 I’m currently learning **Internet Technologies**
+- Beep beep**
 
 - 👨‍💻 All of my projects are available at [https://github.com/LahiruDilshan2000/MyProfile](https://github.com/LahiruDilshan2000/MyProfile)
 
